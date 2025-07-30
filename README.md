@@ -1,5 +1,5 @@
 !! I am currently working on a better V3 design that has significant improvements over this V2 design.
-I should be able to release that within about one week, so by the 27th of July. !!
+I should be able to finish that in a few days as of 30.07.2025. !!
 
 
 This is an alternate printhead for the Greenboy3d Pellet Extruder 
