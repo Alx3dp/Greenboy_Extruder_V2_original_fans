@@ -1,5 +1,4 @@
-!! I am currently working on a better V3 design that has significant improvements over this V2 design.
-I should be able to finish that in a few days as of 30.07.2025. !!
+!! I have made a better V3 design, you can find it here: https://github.com/Alx3dp/Greenboy_Extruder_Printhead_V3 !!
 
 
 This is an alternate printhead for the Greenboy3d Pellet Extruder 
